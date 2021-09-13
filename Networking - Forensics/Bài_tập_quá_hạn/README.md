@@ -40,13 +40,15 @@ Những manh mối ta có:
 * Access log của server btvn.kid.cyberjutsu-lab.tech
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
 <!-- GETTING STARTED -->
-## Getting Started
-![Login Page][product-screenshot]
+## Bắt đầu
+<img src="images/btvn3.png" alt="Logo" width="800" height="500">
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+#### 1 > Thực hiện kiểm tra website
 
-### Prerequisites
+Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá hạn truy cập, bạn không thể đăng nhập”, có nghĩa là cho dù nhập ký tự vào ô username password đi trong nữa thì nút login sẽ không sáng màu để đăng nhập được.
+
+### Phân tích đoạn chat
+
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
