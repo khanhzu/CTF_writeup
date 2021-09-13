@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Challenge
 
-![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]]
 
 Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
 
