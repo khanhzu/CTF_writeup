@@ -1,4 +1,4 @@
-# Junior Hacking Talents write 
+# Junior Hacking Talents Write Up
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
