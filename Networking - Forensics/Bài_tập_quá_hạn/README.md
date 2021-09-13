@@ -14,7 +14,15 @@
 
 Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
 * Url: http://btvn.kid.cyberjutsu-lab.tech/
-* Tệp đính kèm: https://cdn.cjstatic.com/kidctf-final/network-forensics/access-log/btvn-13511395bf3a05933ebcfa05dedce421.zip
+<summary>Tệp đình kèm</summary>
+  <ol>
+    <li>
+      <a href="https://vudinhnamkhanh.xyz/access.log">access.</a>
+    </li>
+    <li>
+      <a href="https://vudinhnamkhanh.xyz/log-chat.pcapng">log-chat.pcapng</a>
+    </li>
+  </ol>
 
 ---
 
