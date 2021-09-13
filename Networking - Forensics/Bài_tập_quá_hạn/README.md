@@ -47,14 +47,15 @@ Những manh mối ta có:
 
 Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá hạn truy cập, bạn không thể đăng nhập”, có nghĩa là cho dù nhập ký tự vào ô username password đi trong nữa thì nút login sẽ không sáng màu để đăng nhập được.
 
-### Phân tích đoạn chat
+## Phân tích đoạn chat
+* Trích xuất file đã tải 
+<img src="images/2btvn.png">
 
+* Tiến hành giải nén file
+<img src="images/3btvn.png" width="800" height="500">
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Đối với file access.log ta sẽ dùng code editor ( vsc, np++, etc) để đọc & phân tích log
+* Đối với log-chat.pcapng ta sẽ dùng Wireshark để tiến hành phân tích dữ liệu gói tin mạng 
 
 ### Installation
 
