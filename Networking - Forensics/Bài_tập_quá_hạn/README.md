@@ -34,7 +34,7 @@ Những manh mối ta có:
 <!-- GETTING STARTED -->
 ## Getting Started
 <a href="https://github.com/vudinhnamkhanh/CTF_writeup/">
-    <img src="images/screenshot.png" alt="Logo" width="800" height="800">
+    <img src="images/screenshot.png" alt="Logo" width="800" height="700">
   </a>
 
 This is an example of how you may give instructions on setting up your project locally.
