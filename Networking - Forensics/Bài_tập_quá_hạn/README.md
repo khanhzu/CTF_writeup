@@ -6,7 +6,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Write up Challenge - Bài tập quá hạn</h3>
+  <h3 align="center">Write up | Challenge - Bài tập quá hạn</h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Challenge
