@@ -1,3 +1,4 @@
+# Junior Hacking Talents write 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -13,17 +14,16 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
+
 * Url: http://btvn.kid.cyberjutsu-lab.tech/
-<summary>Tệp đình kèm</summary>
-  <ol>
+* Tệp đính kèm:
     <li>
       <a href="https://vudinhnamkhanh.xyz/access.log">access.</a>
     </li>
     <li>
       <a href="https://vudinhnamkhanh.xyz/log-chat.pcapng">log-chat.pcapng</a>
     </li>
-  </ol>
-
+    
 ---
 
 Đề bài:
@@ -41,7 +41,7 @@ Những manh mối ta có:
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
 <!-- GETTING STARTED -->
 ## Getting Started
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -150,3 +150,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[product-screenshot]: images/btvn3.png
