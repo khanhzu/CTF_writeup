@@ -33,9 +33,7 @@ Những manh mối ta có:
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
 <!-- GETTING STARTED -->
 ## Getting Started
-<a href="https://github.com/vudinhnamkhanh/CTF_writeup/">
-    <img src="images/screenshot.png" alt="Logo" width="800" height="700">
-  </a>
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
