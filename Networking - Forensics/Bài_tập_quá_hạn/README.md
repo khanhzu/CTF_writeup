@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Challenge
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
 
@@ -41,7 +41,7 @@ Những manh mối ta có:
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
 <!-- GETTING STARTED -->
 ## Getting Started
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
