@@ -18,7 +18,7 @@ Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
 * Url: http://btvn.kid.cyberjutsu-lab.tech/
 * Tệp đính kèm:
     <li>
-      <a href="https://vudinhnamkhanh.xyz/access.log">access.</a>
+      <a href="https://vudinhnamkhanh.xyz/access.log">access.log</a>
     </li>
     <li>
       <a href="https://vudinhnamkhanh.xyz/log-chat.pcapng">log-chat.pcapng</a>
@@ -41,7 +41,7 @@ Những manh mối ta có:
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
 <!-- GETTING STARTED -->
 ## Getting Started
-![Product Name Screen Shot][product-screenshot]
+![Login Page][product-screenshot]
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
