@@ -37,7 +37,7 @@ Hãy giúp Minh tìm lại file bài tập nhé!
 
 ---
 
-Những manh mối ta có:`
+Những manh mối ta có:
 
 * Access log của server btvn.kid.cyberjutsu-lab.tech
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
