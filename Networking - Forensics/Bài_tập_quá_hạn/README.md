@@ -63,3 +63,8 @@ Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá
 [product-screenshot]: images/btvn3.png
 
 ### a. access.log
+* Ở dòng  352 ta có:
+
+<img src="images/access.log.png">
+
+* Ta thử thêm **/files/c4ca4238ab0b923820dcc509a6f7549b.zip** đằng sau url: http://btvn.kid.cyberjutsu-lab.tech
