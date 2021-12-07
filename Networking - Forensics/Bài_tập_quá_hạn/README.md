@@ -74,3 +74,8 @@ Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá
 File đã được download xuống 
 
 * Tiến hành tìm các file zip khác có trong log:
+
+<img src="images/log.png">
+
+* Ta có 100 file zip, tiến hành tải hết tất cả dùng theo phương pháp trên
+Trong 100 file thì ta sẽ thấy 1 file nặng 13KB, còn các file khác đều nặng 0byte
