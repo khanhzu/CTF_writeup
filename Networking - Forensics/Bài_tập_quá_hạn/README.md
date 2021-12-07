@@ -18,10 +18,10 @@ Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
 * Url: http://btvn.kid.cyberjutsu-lab.tech/
 * Tệp đính kèm:
     <li>
-      <a href="https://vudinhnamkhanh.xyz/access.log">access.log</a>
+      <a href="https://cdn.cjstatic.com/kidctf-final/network-forensics/access-log/btvn-13511395bf3a05933ebcfa05dedce421.zip">access.log</a>
     </li>
     <li>
-      <a href="https://vudinhnamkhanh.xyz/log-chat.pcapng">log-chat.pcapng</a>
+      <a href="https://cdn.cjstatic.com/kidctf-final/network-forensics/access-log/btvn-13511395bf3a05933ebcfa05dedce421.zip">log-chat.pcapng</a>
     </li>
     
 ---
@@ -54,7 +54,7 @@ Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá
 <img src="images/2btvn.png">
 
 * Tiến hành giải nén file
-<img src="images/3btvn.png" width="800" height="500">
+<img src="images/3btvn.png" width="800" height="600">
 
 * Đối với file access.log ta sẽ dùng code editor ( vsc, np++, etc) để đọc & phân tích log
 * Đối với log-chat.pcapng ta sẽ dùng Wireshark để tiến hành phân tích dữ liệu gói tin mạng 
