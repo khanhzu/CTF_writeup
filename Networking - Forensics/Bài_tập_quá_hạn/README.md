@@ -43,7 +43,7 @@ Những manh mối ta có:`
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
 <!-- GETTING STARTED -->
 ## Bắt đầu
-<img src="images/btvn3.png" alt="Logo" width="800" height="500">
+<img src="images/btvn3.png" alt="Logo" width="800" height="400">
 
 #### 1 > Thực hiện kiểm tra website
 
@@ -54,7 +54,7 @@ Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá
 <img src="images/2btvn.png">
 
 * Tiến hành giải nén file
-<img src="images/3btvn.png" width="800" height="600">
+<img src="images/3btvn.png" width="800" height="700">
 
 * Đối với file access.log ta sẽ dùng code editor ( vsc, np++, etc) để đọc & phân tích log
 * Đối với log-chat.pcapng ta sẽ dùng Wireshark để tiến hành phân tích dữ liệu gói tin mạng 
@@ -68,3 +68,9 @@ Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá
 <img src="images/access.log.png">
 
 * Ta thử thêm **/files/c4ca4238ab0b923820dcc509a6f7549b.zip** đằng sau url: http://btvn.kid.cyberjutsu-lab.tech
+
+<img src="images/file.zip.png" width="800" height="400">
+
+File đã được download xuống 
+
+* Tiến hành tìm các file zip khác có trong log:
