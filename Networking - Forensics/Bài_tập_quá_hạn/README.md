@@ -13,9 +13,10 @@
 
 ![Product Name Screen Shot][product-screenshot]]
 
-Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
+Trong bài này chúng ta có 1 url và 2 tệp đính kèm:
 
 * Url: http://btvn.kid.cyberjutsu-lab.tech/
+
  Tệp đính kèm:
     <li>
       <a href="https://cdn.cjstatic.com/kidctf-final/network-forensics/access-log/btvn-13511395bf3a05933ebcfa05dedce421.zip">access.log</a>
@@ -28,11 +29,11 @@ Trong bài này chúng ta có 1 url và 1 tệp đính kèm:
 
 Đề bài:
 
-Gần đây phải học online, trường của Minh làm hẳn một trang web để đưa bài tập cho các bạn học sinh.
+* Gần đây phải học online, trường của Minh làm hẳn một trang web để đưa bài tập cho các bạn học sinh.
 
-http://btvn.kid.cyberjutsu-lab.tech/
+* http://btvn.kid.cyberjutsu-lab.tech/
 
-Nhưng lần này, cậu ấy lỡ tay xóa mất file bài tập trên máy tính của mình rồi. Thật buồn là đã quá hạn truy cập vào trang web để tải bài tập.
+* Nhưng lần này, cậu ấy lỡ tay xóa mất file bài tập trên máy tính của mình rồi. Thật buồn là đã quá hạn truy cập vào trang web để tải bài tập.
 Hãy giúp Minh tìm lại file bài tập nhé!
 
 ---
@@ -41,6 +42,9 @@ Những manh mối ta có:
 
 * Access log của server btvn.kid.cyberjutsu-lab.tech
 * Trích xuất gói tin mạng đoạn chat giữa Minh và một người bạn
+
+---
+
 <!-- GETTING STARTED -->
 ## Bắt đầu
 <img src="images/btvn3.png" alt="Logo" width="800" height="400">
