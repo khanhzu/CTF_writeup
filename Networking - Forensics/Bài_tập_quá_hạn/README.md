@@ -98,7 +98,7 @@ Trong 100 file thì ta sẽ thấy 1 file nặng 13KB, còn các file khác đ�
 
 * Vậy ta đã có password: `emyeukhoahoc***2003`
 
-* Nhập password tìm được từ log-chat.pcapng vào file 13kb ta đã tìm đc  
+* Nhập password tìm được từ log-chat.pcapng vào file 13kb ta đã tìm được  
 
 <img src="images/flag.png">
 
