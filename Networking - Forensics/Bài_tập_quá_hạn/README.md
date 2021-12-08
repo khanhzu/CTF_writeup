@@ -45,7 +45,7 @@ Những manh mối ta có:
 ## Bắt đầu
 <img src="images/btvn3.png" alt="Logo" width="800" height="400">
 
-#### 1 > Thực hiện kiểm tra website
+#### 1. Thực hiện kiểm tra website
 
 Cho dù ta nhập username hay password thì hệ thống sẽ báo “Đã quá hạn truy cập, bạn không thể đăng nhập”, có nghĩa là cho dù nhập ký tự vào ô username password đi trong nữa thì nút login sẽ không sáng màu để đăng nhập được.
 
@@ -79,4 +79,18 @@ File đã được download xuống
 
 * Ta có 100 file zip, tiến hành tải hết tất cả dùng theo phương pháp trên
 Trong 100 file thì ta sẽ thấy 1 file nặng 13KB, còn các file khác đều nặng 0byte
+
+<img src="images/files.zip.png">
+
+* Mở file ra ta thấy yêu cầu nhập password mà hiện giờ ta không  có, ta bắt  đầu tìm key qua log-chat.pcapng 
+
+<img src="images/unzip.png">
+
+### b. log-chat.png
+
+* Dùng Wireshark phân tích file
+
+<img src="images/wireshark.png">
+
+* Vậy ta đã có password: emyeukhoahoc***2003
 
