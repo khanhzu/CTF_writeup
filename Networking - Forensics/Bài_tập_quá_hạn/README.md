@@ -92,5 +92,15 @@ Trong 100 file thì ta sẽ thấy 1 file nặng 13KB, còn các file khác đ�
 
 <img src="images/wireshark.png">
 
-* Vậy ta đã có password: emyeukhoahoc***2003
+* Vậy ta đã có password: `emyeukhoahoc***2003`
+
+* Nhập password tìm được từ log-chat.pcapng vào file 13kb ta đã tìm đc  
+
+<img src="images/flag.png">
+
+* WOALAH! Flag đã được tìm
+
+---
+
+© Vũ Đình Nam Khánh
 
