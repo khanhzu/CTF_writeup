@@ -79,3 +79,4 @@ File đã được download xuống
 
 * Ta có 100 file zip, tiến hành tải hết tất cả dùng theo phương pháp trên
 Trong 100 file thì ta sẽ thấy 1 file nặng 13KB, còn các file khác đều nặng 0byte
+
